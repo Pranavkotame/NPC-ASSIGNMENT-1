@@ -78,3 +78,12 @@ The LAN was successfully designed and configured in Cisco Packet Tracer. Static 
 - `ASSIGNMENT.pkt` – Cisco Packet Tracer project
 - `Unit_1_LAN_Mini_Project_Report.docx` – Project report
 - `screenshots/` – Topology and ping verification screenshots
+
+---
+
+## GitHub Repository
+- **Repository URL:** [https://github.com/Pranavkotame/NPC-ASSIGNMENT-1](https://github.com/Pranavkotame/NPC-ASSIGNMENT-1)
+- **Clone Command:**
+  \\ash
+  git clone https://github.com/Pranavkotame/NPC-ASSIGNMENT-1.git
+  \
